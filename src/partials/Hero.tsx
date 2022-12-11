@@ -13,18 +13,17 @@ const Hero = () => (
           Hi there, I'm <GradientText>Nishant</GradientText> ⚛👋
         </>
       }
-      description={
+    description={
         <>
           Web Developer Based in Waterloo, Canada. Nishant brings your idea to
           life with modern technology.{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             Developer | Tech Enthusiast | Learner
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          Looking for your next Project, Lets Discuss{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+            Lets Build Something Amazing Together
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
         </>
       }
       avatar={
